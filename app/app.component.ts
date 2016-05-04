@@ -6,6 +6,6 @@ import { Component } from 'angular2/core';
 })
 
 export class AppComponent {
-	title = "Seu primeiro aplicativo Angular 2";
-	name = "Jayr";
+	title:string = "Seu primeiro aplicativo Angular 2";
+	name:string = "Jayr";
 }
