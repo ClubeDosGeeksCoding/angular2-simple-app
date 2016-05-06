@@ -1,2 +1,3 @@
 # angular2-simple-app
-Simple app in angular 2
+
+### [Iniciando com Angular 2](http://clubedosgeeks.com.br/programacao/angularjs/iniciando-com-angular-2)
